@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Lambda-School-Labs/lets-get-pizza-fe) [![Maintainability](https://api.codeclimate.com/v1/badges/e1fb15895e38b988dd60/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/lets-get-pizza-fe/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/e1fb15895e38b988dd60/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/lets-get-pizza-fe/test_coverage)
 
-### Deployed @ [www.pleazza.com](https://www.pleazza.com/)
+### Deployed @ [www.plza.com](https://www.pleazza.com/)
 
 <br>
 

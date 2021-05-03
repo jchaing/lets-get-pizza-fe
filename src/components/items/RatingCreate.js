@@ -3,7 +3,7 @@ import { useParams, useHistory } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { Form, Input, TextArea, Button } from "formik-semantic-ui";
 import { Rating } from "semantic-ui-react";
-import { InputError, ServerErrorMessage } from "../forms/Errors";
+import { InputError } from "../forms/Errors";
 
 import SimpleContainer from "../main/SimpleContainer";
 import API from "../../utils/API";

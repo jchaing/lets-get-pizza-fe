@@ -1,5 +1,5 @@
 import React from "react";
-import { Header, Container, Image, Card } from "semantic-ui-react";
+import { Container, Image } from "semantic-ui-react";
 import "./favoriteShop.css";
 
 const ShopCard = ({ location }) => {

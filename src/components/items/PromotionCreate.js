@@ -1,13 +1,13 @@
 import React from "react";
 import { useParams, useHistory } from "react-router-dom";
 import { Form, Input, TextArea, Button } from "formik-semantic-ui";
-import { InputError, ServerErrorMessage } from "../forms/Errors";
+import { InputError } from "../forms/Errors";
 
 import { object, string, date } from "yup";
 
 import SimpleContainer from "../main/SimpleContainer";
 import API from "../../utils/API";
-import { curr_user } from "../../utils/auth";
+// import { curr_user } from "../../utils/auth";
 
 const promotionCreateSchema = object().shape({
   title: string().required("Title is required"),

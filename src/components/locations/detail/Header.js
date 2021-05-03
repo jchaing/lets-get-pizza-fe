@@ -1,5 +1,5 @@
 import React from "react";
-import { Header, Image, Rating, Button, Icon } from "semantic-ui-react";
+import { Header, Image, Rating, Icon } from "semantic-ui-react";
 import { useSelector, useDispatch } from "react-redux";
 import { useParams } from "react-router-dom";
 import { userSubmitSettings } from "../../../redux/actions/userActions";
